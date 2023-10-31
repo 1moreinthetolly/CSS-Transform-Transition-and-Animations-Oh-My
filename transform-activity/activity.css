@@ -1,3 +1,9 @@
 main {
-
-}
+  transform: skew(-10deg, -10deg);
+  width: 100%;
+  }
+ 
+ .wrapper{
+   margin-left: -90px;
+   margin-right: -120px; 
+ }
